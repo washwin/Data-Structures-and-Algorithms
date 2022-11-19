@@ -1,0 +1,8 @@
+insert 45
+insert 56
+insert 23
+insert 25
+insert 98
+insert 85
+insert 90
+predecessor 90
